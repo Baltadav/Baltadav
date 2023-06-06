@@ -2,7 +2,7 @@
 
 <p>
   Hi there! A little intro about myself 
-  I love to know, learn and practice with new lenguages and technologies. Im not only a programmer, i also like music (you could check out my music <a href="goto:https://open.spotify.com/track/2kSWLHU0VKR7Q5Kb7fjSDu?si=7d29e9621aa44a74">here</a> 
+  I love to learn and practice with lenguages and technologies. Im not only a programmer, i also like music.
   Im beginning to contribute on github so maybe we will be seen each other in some code!
 </p>
 
