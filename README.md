@@ -38,9 +38,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     </a>  
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-        <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-    </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
     </a>
@@ -49,12 +46,6 @@
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-    </a>
-    <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-        <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
